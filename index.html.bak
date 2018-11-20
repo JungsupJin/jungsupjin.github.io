@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Lens by HTML5 UP</title>
+		<title>Jungsup Jin by HTML5 UP</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -37,11 +37,11 @@
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 						</article>
 						<article>
-							<a class="thumbnail" href="images/fulls/02.jpg"><img src="images/thumbs/02.jpg" alt="" /></a>
+							<a class="thumbnail" href="images/fulls/game01.jpg"><img src="images/thumbs/game01.jpg" alt="" /></a>
 							<h2>Vivamus convallis libero</h2>
 							<p>Sed velit lacus, laoreet at venenatis convallis in lorem tincidunt.</p>
 						</article>
-						<article>
+				<!--		<article>
 							<a class="thumbnail" href="images/fulls/03.jpg" data-position="top center"><img src="images/thumbs/03.jpg" alt="" /></a>
 							<h2>Nec accumsan enim felis</h2>
 							<p>Maecenas eleifend tellus ut turpis eleifend, vitae pretium faucibus.</p>
@@ -91,6 +91,7 @@
 							<h2>Mattis lorem sodales</h2>
 							<p>Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla.</p>
 						</article>
+						-->
 					</section>
 
 				<!-- Footer -->
