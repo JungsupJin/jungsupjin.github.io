@@ -26,19 +26,19 @@
 							<li><a href="https://twitter.com/" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 							<li><a href="https://www.instagram.com/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 							<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-							<li><a href="jardin7682@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+							<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
 						</ul>
 					</header>
 
 				<!-- Thumbnail -->
 					<section id="thumbnails">
 						<article>
-							<a class="thumbnail" href="images/fulls/logo.jpg" data-position="left center"><img src="images/thumbs/logo.jpg" alt="" /></a>
+							<a class="thumbnail" href="images/fulls/game01.jpg" data-position="left center"><img src="images/thumbs/game01.jpg" alt="" /></a>
 							<h2></h2>
 							<p></p>
 						</article>
 						<article>
-							<a class="thumbnail" href="images/fulls/game01.jpg"><img src="images/thumbs/game01.jpg" alt="" /></a>
+							<a class="thumbnail" href="images/fulls/logo.jpg"><img src="images/thumbs/logo.jpg" alt="" /></a>
 							<h2>Hyper Casual Game</h2>
 							<p>Let's break the cubes & run ~</p>
 						</article>
